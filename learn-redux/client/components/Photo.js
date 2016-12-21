@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 
 const Photo = React.createClass({
   render(){
@@ -9,3 +9,5 @@ const Photo = React.createClass({
     );
   }
 });
+
+export default Photo;
