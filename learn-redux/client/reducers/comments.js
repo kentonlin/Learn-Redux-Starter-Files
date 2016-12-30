@@ -4,7 +4,7 @@
 // 2. copy of current state
 
 function comments(state = [], action){
-  console.log(state, action);
+  console.log("this is the comments reducer", state, action);
   return state;
 }
 
